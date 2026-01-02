@@ -36,6 +36,7 @@ A desktop application developed using **Python Tkinter** and **SQL Server** that
 
 ```md
 ## 📸 Screenshots
-![Main Page](mainpage.png)
-![Registration](registrationpage.png)
-![CRUD](crudoperationpage.png)
+![Main Page](screenshots/mainpage.png)
+![Registration](screenshots/registrationpage.png)
+
+![CRUD](screenshots/crudoperationpage.png)
