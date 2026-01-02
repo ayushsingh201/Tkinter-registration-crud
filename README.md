@@ -34,9 +34,10 @@ A desktop application developed using **Python Tkinter** and **SQL Server** that
    '''bash
     python main.py
 
-```md
 ## 📸 Screenshots
-![Main Page](screenshots/mainpage.png)
-![Registration](screenshots/registrationpage.png)
 
-![CRUD](screenshots/crudoperationpage.png)
+![Main Page](screenshots/mainpage.png)
+![Registration Page](screenshots/registrationpage.png)
+![CRUD Page](screenshots/crudoperationpage.png)
+
+
